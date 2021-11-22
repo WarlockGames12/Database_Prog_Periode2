@@ -1,0 +1,16 @@
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode2\ProgrammerenC#\Opdracht1Prog\Opdracht1Prog\obj\Debug\net5.0\Opdracht1Prog.csproj.AssemblyReference.cache
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode2\ProgrammerenC#\Opdracht1Prog\Opdracht1Prog\obj\Debug\net5.0\Opdracht1Prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode2\ProgrammerenC#\Opdracht1Prog\Opdracht1Prog\obj\Debug\net5.0\Opdracht1Prog.AssemblyInfoInputs.cache
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode2\ProgrammerenC#\Opdracht1Prog\Opdracht1Prog\obj\Debug\net5.0\Opdracht1Prog.AssemblyInfo.cs
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode2\ProgrammerenC#\Opdracht1Prog\Opdracht1Prog\obj\Debug\net5.0\Opdracht1Prog.csproj.CoreCompileInputs.cache
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode2\ProgrammerenC#\Opdracht1Prog\Opdracht1Prog\bin\Debug\net5.0\Opdracht1Prog.exe
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode2\ProgrammerenC#\Opdracht1Prog\Opdracht1Prog\bin\Debug\net5.0\Opdracht1Prog.deps.json
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode2\ProgrammerenC#\Opdracht1Prog\Opdracht1Prog\bin\Debug\net5.0\Opdracht1Prog.runtimeconfig.json
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode2\ProgrammerenC#\Opdracht1Prog\Opdracht1Prog\bin\Debug\net5.0\Opdracht1Prog.runtimeconfig.dev.json
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode2\ProgrammerenC#\Opdracht1Prog\Opdracht1Prog\bin\Debug\net5.0\Opdracht1Prog.dll
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode2\ProgrammerenC#\Opdracht1Prog\Opdracht1Prog\bin\Debug\net5.0\ref\Opdracht1Prog.dll
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode2\ProgrammerenC#\Opdracht1Prog\Opdracht1Prog\bin\Debug\net5.0\Opdracht1Prog.pdb
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode2\ProgrammerenC#\Opdracht1Prog\Opdracht1Prog\obj\Debug\net5.0\Opdracht1Prog.dll
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode2\ProgrammerenC#\Opdracht1Prog\Opdracht1Prog\obj\Debug\net5.0\ref\Opdracht1Prog.dll
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode2\ProgrammerenC#\Opdracht1Prog\Opdracht1Prog\obj\Debug\net5.0\Opdracht1Prog.pdb
+C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode2\ProgrammerenC#\Opdracht1Prog\Opdracht1Prog\obj\Debug\net5.0\Opdracht1Prog.genruntimeconfig.cache
