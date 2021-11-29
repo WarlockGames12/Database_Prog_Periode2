@@ -23,5 +23,5 @@ namespace Opdracht1Prog
                 Console.WriteLine(Pingas.Potions + Pingas.Health + Pingas.Discription);
             }
         }
-    }
+    } 
 }

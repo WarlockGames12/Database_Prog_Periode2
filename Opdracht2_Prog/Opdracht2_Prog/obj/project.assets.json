@@ -1,12 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETFramework,Version=v5.0": {},
-    ".NETFramework,Version=v5.0/win7-x86": {}
+    "net5.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETFramework,Version=v5.0": []
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\fpwee\\.nuget\\packages\\": {},
@@ -17,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fpwee\\f1m1\\MA\\Bewijzenmap\\Leerjaar2\\Periode2\\ProgrammerenC#\\Opdracht1Prog\\Opdracht1Prog\\Opdracht1Prog.csproj",
-      "projectName": "Opdracht1Prog",
-      "projectPath": "C:\\Users\\fpwee\\f1m1\\MA\\Bewijzenmap\\Leerjaar2\\Periode2\\ProgrammerenC#\\Opdracht1Prog\\Opdracht1Prog\\Opdracht1Prog.csproj",
+      "projectUniqueName": "C:\\Users\\fpwee\\f1m1\\MA\\Bewijzenmap\\Leerjaar2\\Periode2\\ProgrammerenC#\\Opdracht2_Prog\\Opdracht2_Prog\\Opdracht2_Prog.csproj",
+      "projectName": "Opdracht2_Prog",
+      "projectPath": "C:\\Users\\fpwee\\f1m1\\MA\\Bewijzenmap\\Leerjaar2\\Periode2\\ProgrammerenC#\\Opdracht2_Prog\\Opdracht2_Prog\\Opdracht2_Prog.csproj",
       "packagesPath": "C:\\Users\\fpwee\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fpwee\\f1m1\\MA\\Bewijzenmap\\Leerjaar2\\Periode2\\ProgrammerenC#\\Opdracht1Prog\\Opdracht1Prog\\obj\\",
+      "outputPath": "C:\\Users\\fpwee\\f1m1\\MA\\Bewijzenmap\\Leerjaar2\\Periode2\\ProgrammerenC#\\Opdracht2_Prog\\Opdracht2_Prog\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -35,14 +34,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net50"
+        "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net50": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "projectReferences": {}
         }
       },
@@ -53,11 +53,24 @@
       }
     },
     "frameworks": {
-      "net50": {}
-    },
-    "runtimes": {
-      "win7-x86": {
-        "#import": []
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
