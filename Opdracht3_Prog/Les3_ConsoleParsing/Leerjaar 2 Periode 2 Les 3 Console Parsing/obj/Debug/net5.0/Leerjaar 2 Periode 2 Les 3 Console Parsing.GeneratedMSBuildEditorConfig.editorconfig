@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Leerjaar_2_Periode_2_Les_3_Console_Parsing
+build_property.ProjectDir = C:\Users\fpwee\f1m1\MA\Bewijzenmap\Leerjaar2\Periode2\ProgrammerenC#\Opdracht3_Prog\Les3_ConsoleParsing\Leerjaar 2 Periode 2 Les 3 Console Parsing\
